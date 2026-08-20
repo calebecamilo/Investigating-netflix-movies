@@ -12,4 +12,4 @@ Nesse projeto aplicamos alguns dos conhecimentos passados anteriormente, utiliza
 
 Utilizamos: Python, Numpy, Pandas e Matplotlib.
 
-
+Check: *notebook.ipynb*
